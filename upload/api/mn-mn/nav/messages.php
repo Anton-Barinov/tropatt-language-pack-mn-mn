@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Хянах самбар',
+  'ideas' => 'Санаа',
+  'tasks' => 'Даалгавар',
+  'day' => 'My day',
+  'week' => 'My долоо хоног',
+  'kanban' => 'Канбан',
+  'gantt' => 'Гантт',
+  'projects' => 'Төслүүд',
+  'calendar' => 'Хуанли',
+  'counterparties' => 'Харилцагч талууд',
+  'teams' => 'Багууд',
+  'knowledge' => 'Мэдлэгийн сан',
+  'analytics' => 'Шинжилгээ',
+  'notifications' => 'Мэдэгдэл',
+  'admin' => 'Удирдлага',
+  'intake' => 'Ирсэн',
+  'cycles' => 'Мөчлөг (спринт)',
+  'project_modules' => 'Төслийн модулиуд',
+  'admin_estimates' => 'Даалгаврын тооцоо',
+  'admin_modules' => 'Модулиуд',
+  'chat' => 'Чатууд',
+  'docs' => 'Баримт бичиг',
+  'api' => 'Баримт бичиг',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

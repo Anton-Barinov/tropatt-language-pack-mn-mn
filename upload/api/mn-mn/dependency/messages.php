@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency жагсаалт',
+  'created' => 'Dependency үүсгэсэн',
+  'deleted' => 'Dependency устгасан',
+  'not_found' => 'Dependency биш олдлоо',
+  'task_not_found' => 'One ийн the даалгавар was биш олдлоо',
+  'invalid_type' => 'хүчингүй dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'даалгавар болохгүй depend дээр itself',
+  'different_projects' => 'Dependencies can зөвхөн be үүсгэсэн between даалгавар дотор the same төсөл',
+  'empty' => 'No dependencies',
+  'th_type' => 'Төрөл',
+  'th_task' => 'даалгавар',
+  'btn_delete' => 'Устгах',
+  'load_error' => 'амжилтгүй руу load dependencies',
+  'prompt_task_id' => 'даалгавар ID (public_id)',
+  'task_id_empty' => 'даалгавар ID болохгүй be хоосон',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => 'устгах dependency?',
+  'deleted_notify' => 'Dependency устгасан',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would үүсгэх a cycle between даалгавар',
+);

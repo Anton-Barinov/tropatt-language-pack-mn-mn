@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Ачаалж байна…',
+  'load_error' => 'ачаалж байна алдаа',
+  'empty' => 'No хадгалсан views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Засах',
+  'archive' => 'архив',
+  'applied' => 'View applied:',
+  'apply_error' => 'алдаа applying view',
+  'save_as' => 'хадгалах as шинэ view',
+  'edit_title' => 'засах view',
+  'title_required' => 'оруулах a view нэр',
+  'update_error' => 'алдаа updating view',
+  'create_error' => 'алдаа creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Алдаа',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'алдаа duplicating',
+  'confirm_archive' => 'архив энэ view?',
+  'archived' => 'View архивласан',
+  'archive_error' => 'алдаа archiving',
+);

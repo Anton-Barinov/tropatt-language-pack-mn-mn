@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'хянах самбар widgets',
+  'widgets_saved' => 'хянах самбар widgets шинэчилсэн',
+  'widgets_required' => 'Widgets жагсаалт байна шаардлагатай',
+  'summary' => 'хянах самбар summary',
+  'sticky_notes_title' => 'Sticky Notes',
+  'sticky_notes_loading' => 'ачаалж байна notes...',
+  'sticky_notes_error' => 'амжилтгүй руу load notes',
+  'sticky_notes_empty' => 'No notes yet',
+  'sticky_notes_add' => '+ Add note',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => 'архив',
+  'sticky_notes_archive_confirm' => 'архив note?',
+  'sticky_notes_content_required' => 'оруулах note текст',
+  'sticky_notes_saved' => 'Note шинэчилсэн',
+  'sticky_notes_save_error' => 'хадгалах алдаа',
+  'sticky_notes_update_error' => 'шинэчлэх алдаа',
+  'sticky_notes_archived' => 'Note архивласан',
+  'sticky_notes_archive_error' => 'архив алдаа',
+  'sticky_notes_create_title' => 'шинэ note',
+  'sticky_notes_content_label' => 'Note текст',
+  'sticky_notes_placeholder' => 'Write a note...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'Note үүсгэсэн',
+  'sticky_notes_create_error' => 'Creation алдаа',
+  'insights' => 'хянах самбар widget metrics',
+  'insights_unknown_widget' => 'тодорхойгүй хянах самбар widget',
+);

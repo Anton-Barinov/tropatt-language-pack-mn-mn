@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-mn-mn",
+    "full_code": "crm.language-pack-mn-mn",
+    "vendor": "crm",
+    "code": "mn-mn",
+    "title": "Mongolian Language Pack (Монгол)",
+    "native_name": "Монгол",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM Монгол complete LTR localization pack.",
+    "signature": "17651fa81eec77886c916fc72ded0fdf4b7e8ebe7317c22ede4d599690319081"
+}

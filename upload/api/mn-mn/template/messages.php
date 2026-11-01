@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'даалгавар загвар жагсаалт',
+  'task_created' => 'даалгавар загвар үүсгэсэн',
+  'task_detail' => 'даалгавар загвар',
+  'task_updated' => 'даалгавар загвар шинэчилсэн',
+  'task_deleted' => 'даалгавар загвар устгасан',
+  'project_list' => 'төсөл загвар жагсаалт',
+  'project_created' => 'төсөл загвар үүсгэсэн',
+  'project_detail' => 'төсөл загвар',
+  'project_updated' => 'төсөл загвар шинэчилсэн',
+  'project_deleted' => 'төсөл загвар устгасан',
+  'max_255' => 'дээд 255 characters',
+  'payload_object' => 'payload талбар must be an object',
+  'not_found' => 'загвар биш олдлоо',
+  'empty_tasks' => 'No даалгавар загварууд',
+  'empty_projects' => 'No төсөл загварууд',
+  'load_error_tasks' => 'амжилтгүй руу load даалгавар загварууд',
+  'load_error_projects' => 'амжилтгүй руу load төсөл загварууд',
+  'btn_delete' => 'Устгах',
+  'created_task_notify' => 'даалгавар загвар үүсгэсэн',
+  'created_project_notify' => 'төсөл загвар үүсгэсэн',
+  'error_create' => 'үүсгэх алдаа',
+  'confirm_delete_task' => 'устгах даалгавар загвар?',
+  'confirm_delete_project' => 'устгах төсөл загвар?',
+  'deleted_task_notify' => 'даалгавар загвар устгасан',
+  'deleted_project_notify' => 'төсөл загвар устгасан',
+  'error_delete' => 'устгах алдаа',
+  'task_applied' => 'даалгавар үүсгэсэн аас загвар',
+  'project_applied' => 'төсөл үүсгэсэн аас загвар',
+);

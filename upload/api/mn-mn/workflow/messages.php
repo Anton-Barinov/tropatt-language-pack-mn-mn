@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Workflow rules жагсаалт',
+  'created' => 'Workflow rule үүсгэсэн',
+  'detail' => 'Workflow rule дэлгэрэнгүй',
+  'updated' => 'Workflow rule шинэчилсэн',
+  'deleted' => 'Workflow rule устгасан',
+  'test_run' => 'Test run дууссан',
+  'runs' => 'Workflow runs жагсаалт',
+  'not_found' => 'Workflow rule биш олдлоо',
+  'invalid_trigger_code' => 'хүчингүй trigger_code',
+  'invalid_action_code' => 'хүчингүй action_code',
+  'payload_object' => 'Payload must be an object',
+  'max_255' => 'дээд 255 characters',
+  'action_no_task_or_assignee' => 'No даалгавар or assignee selected',
+  'action_no_task_or_status' => 'No даалгавар or шинэ төлөв selected',
+  'default_notification_title' => 'Automation мэдэгдэл',
+  'action_no_notification_recipient' => 'No мэдэгдэл recipient selected',
+  'action_no_task_or_comment' => 'No даалгавар or сэтгэгдэл текст selected',
+  'action_no_user_for_reminder' => 'No хэрэглэгч selected д зориулсан reminder',
+  'action_no_follow_up_title' => 'Follow-up даалгавар гарчиг биш specified',
+  'action_invalid_webhook_url' => 'Provide a хүчинтэй http/https webhook URL',
+  'action_no_task_for_sla' => 'No даалгавар selected д зориулсан SLA',
+  'action_no_manager' => 'No manager олдлоо д зориулсан the executor',
+  'manager_notification_title' => 'Long work гүй a break',
+  'manager_notification_body' => '{user}: {total} минут logged дээр the даалгавар «{task}» дээр {day} (threshold {threshold} минут).',
+  'test_task_title' => 'Test даалгавар',
+  'follow_up_description' => 'үүсгэсэн аар automation rule аас даалгавар',
+  'follow_up_prefix' => 'Follow-up:',
+  'unknown_action' => 'тодорхойгүй үйлдэл:',
+);
